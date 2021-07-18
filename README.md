@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![atharianr's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharianr&show_icons=true&theme=tokyonight)
+[![atharianr's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharianr&show_icons=true&theme=tokyonight)](https://github.com/atharianr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharianr&layout=compact&theme=tokyonight)](https://github.com/atharianr/github-readme-stats)
+
 
 
